@@ -1,7 +1,17 @@
 <div align = "center">
 
-# Hi there 👋
+# PORTFOLIO
 
+</div>
+
+## About me
+
+<div align = "left">
+Graduated from middle and high school with **Honors Diplomas** (straight-A student) and am currently a first-year student at **Samara National Research University (Samara University)**. 
+
+My major is **Information Security of Automated Systems (IBAS)**, where I focus on cybersecurity and system stability.
+
+In addition to my academic studies, I am a **3D Artist** with **6 years of experience**. I enjoy combining technical precision with creative 3D design to build unique digital environments.
 </div>
 
 ## My Skils  
