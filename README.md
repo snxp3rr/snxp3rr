@@ -7,7 +7,8 @@
 ## About me
 
 <div align = "left">
-Graduated from middle and high school with Honors Diplomas (straight-A student) and am currently a first-year student at **Samara National Research University (Samara University)**. 
+  
+Graduated from middle and high school with **Honors Diplomas** (straight-A student) and am currently a first-year student at **Samara National Research University (Samara University)**. 
 
 My major is **Information Security of Automated Systems (IBAS)**, where I focus on cybersecurity and system stability.
 
