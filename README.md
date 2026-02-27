@@ -15,7 +15,7 @@ My major is **Information Security of Automated Systems (IBAS)**, where I focus 
 In addition to my academic studies, I am a **3D Artist** with **6 years of experience**. I enjoy combining technical precision with creative 3D design to build unique digital environments.
 </div>
 
-## My Skils  
+## My Skills  
 
 ### Programming
 
